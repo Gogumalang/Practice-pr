@@ -1,2 +1,2 @@
 # Practice-pr
-박세영 pr 연습용 repo
+팀 프로젝트 
